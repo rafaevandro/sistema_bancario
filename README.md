@@ -1,6 +1,3 @@
-# sistema_bancario
-Criando um Sistema Bancário com Python
-
 # Sistema Bancário
 
 Este é um simples sistema bancário em Python que permite realizar operações de depósito, saque e visualização de extrato em uma conta bancária.
